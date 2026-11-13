@@ -1,0 +1,28 @@
+{
+  "type": "module",
+  "name": "student-manager",
+  "version": "1.0.0",
+  "description": "practice mini project , concepts understood - callback hell , file system (read/write), sync & async , process.argv , utils , node: .",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ruki77/Node.js-mini-project---student-record-manager.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "student",
+    "file",
+    "system",
+    "callback"
+  ],
+  "author": "Ruki77",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ruki77/Node.js-mini-project---student-record-manager/issues"
+  },
+  "homepage": "https://github.com/Ruki77/Node.js-mini-project---student-record-manager#readme"
+}
