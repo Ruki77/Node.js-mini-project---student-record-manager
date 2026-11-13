@@ -1,5 +1,4 @@
 {
-  "type": "module",
   "name": "student-manager",
   "version": "1.0.0",
   "description": "practice mini project , concepts understood - callback hell , file system (read/write), sync & async , process.argv , utils , node: .",
@@ -24,5 +23,6 @@
   "bugs": {
     "url": "https://github.com/Ruki77/Node.js-mini-project---student-record-manager/issues"
   },
-  "homepage": "https://github.com/Ruki77/Node.js-mini-project---student-record-manager#readme"
+  "homepage": "https://github.com/Ruki77/Node.js-mini-project---student-record-manager#readme",
+   "type": "module"
 }
